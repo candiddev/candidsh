@@ -1,6 +1,7 @@
 ---
 categories:
 - feature
+description: Candid Shoring's Platform Engineering capabilities.
 title: Platform Engineering
 type: docs
 ---

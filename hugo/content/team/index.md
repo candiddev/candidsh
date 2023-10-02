@@ -1,6 +1,7 @@
 ---
-linkTitle: Team
+description: The folks behind the magic.
 menu: {main}
+title: Team
 weight: 20
 ---
 

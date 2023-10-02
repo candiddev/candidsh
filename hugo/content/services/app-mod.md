@@ -1,6 +1,7 @@
 ---
 categories:
 - feature
+description: Candid Shoring's Application Modernization capabilities.
 title: Application Modernization
 type: docs
 ---

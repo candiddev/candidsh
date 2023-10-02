@@ -1,5 +1,5 @@
 ---
-description: Candid Shoring - Load-Bearing IT Services and Support
+description: Load-Bearing IT Services and Support
 title: Candid Shoring
 ---
 

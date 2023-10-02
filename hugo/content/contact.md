@@ -1,7 +1,7 @@
 ---
-description: Contact Us
-linkTitle: Contact Us
+description: How to contact us.
 menu: {main}
+title: Contact Us
 weight: 30
 ---
 

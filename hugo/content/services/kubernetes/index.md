@@ -1,6 +1,7 @@
 ---
 categories:
 - feature
+description: Candid Shoring's Kubernetes capabilities.
 title: Kubernetes
 type: docs
 ---

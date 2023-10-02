@@ -1,6 +1,7 @@
 ---
 categories:
 - feature
+description: Candid Shoring's Linux capabilities.
 title: Linux
 type: docs
 ---

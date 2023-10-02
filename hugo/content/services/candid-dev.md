@@ -1,6 +1,7 @@
 ---
 categories:
 - feature
+description: Candid Shoring's Candid Development partnership.
 title: Candid Development
 type: docs
 ---

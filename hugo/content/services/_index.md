@@ -1,8 +1,7 @@
 ---
-description: Consulting Services
-linkTitle: Services
+description: Consulting services menu.
 menu: {main}
-title: Candid Shoring Services
+title: Services
 type: docs
 weight: 20
 ---

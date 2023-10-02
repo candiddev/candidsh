@@ -1,6 +1,7 @@
 ---
 categories:
 - feature
+description: Candid Shoring's Google Cloud capabilities.
 title: Google Cloud
 type: docs
 ---
