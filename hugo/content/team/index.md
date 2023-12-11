@@ -11,7 +11,7 @@ weight: 20
 {{% card %}}
 ## <img src="mike.png" style="border-radius: 4px; height: 100px; padding-bottom: 20px; width: auto"> **Mike McRill**
 
-As Head of Infrastructure Renovation, Mike helps companies accelerate and innovate their product development by embracing change.
+Mike helps companies accelerate and innovate their product development by embracing change.
 
 <a class="td-footer__links-item" target="_blank" rel="noopener" href="https://github.com/thequailman" aria-label="github">
   <i class="fab fa-github"></i>

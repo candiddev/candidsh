@@ -1,4 +1,4 @@
-# Candid Shoring
+# <img alt=logo src=candidsh.png width=40px> Candid Shoring
 
 > Load-Bearing IT Support and Services
 
