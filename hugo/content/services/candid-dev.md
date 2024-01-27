@@ -19,4 +19,4 @@ Our Candid Development services deliver these outcomes:
 - Providing 8x5 and 24x7 support
 - Training your teams on how to get the most out of Candid Development products
 
-[Contact Us](/contact/) to learn more.
+[Contact Us]({{< ref "/contact" >}}) to learn more.

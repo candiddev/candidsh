@@ -28,7 +28,7 @@ Our Linux services deliver these outcomes:
 - Modernizing end user experience for provisioning and accessing resources
 - Updating legacy Linux operating systems
 
-[Contact Us](/contact/) to learn more.
+[Contact Us]({{< ref "/contact" >}}) to learn more.
 
 <div style="align-items: center; display: flex; gap: 50px; justify-content: center;">
 {{% image rhce "Red Hat Certified Engineer" 200 true %}}

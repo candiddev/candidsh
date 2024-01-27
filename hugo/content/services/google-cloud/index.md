@@ -31,7 +31,7 @@ Our Google Cloud services deliver these outcomes:
 - Securing your Google Cloud environment
 - Use Infrastructure-as-Code (IaC) tools like Terraform to manage your environments
 
-[Contact Us](/contact/) to learn more.
+[Contact Us]({{< ref "/contact" >}}) to learn more.
 
 <div style="align-items: center; display: flex; gap: 50px; justify-content: center;">
 {{% image gcp_architect "Google Cloud Certified Professional Cloud Architect" 200 true %}}

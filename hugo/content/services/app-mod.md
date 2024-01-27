@@ -21,4 +21,4 @@ We can help your organization modernize existing applications into a cloud opera
 
 Outcomes vary by each customer.  No application modernization journey is the same, and we will not cookie cutter you onto a path that isn't right for your organization.
 
-[Contact Us](/contact/) to learn more.
+[Contact Us]({{< ref "/contact" >}}) to learn more.

@@ -26,7 +26,7 @@ Our Platform Engineering services deliver these outcomes:
 - Increase time to market
 - Scale your applications to meet your customer needs
 
-[Contact Us](/contact/) to learn more.
+[Contact Us]({{< ref "/contact" >}}) to learn more.
 
 <div style="align-items: center; display: flex; gap: 50px; justify-content: center;">
 {{% image terraform "Certified Vault Operations Professional" 200 true %}}

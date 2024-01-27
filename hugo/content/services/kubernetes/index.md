@@ -33,7 +33,7 @@ Our Kubernetes services deliver these outcomes:
 - Networking to and from Kubernetes
 - Securing your Kubernetes environment
 
-[Contact Us](/contact/) to learn more.
+[Contact Us]({{< ref "/contact" >}}) to learn more.
 
 <div style="align-items: center; display: flex; gap: 50px; justify-content: center;">
 {{% image cka "Certified Kubernetes Administrator" 200 true %}}
